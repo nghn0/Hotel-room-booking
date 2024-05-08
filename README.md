@@ -1,4 +1,4 @@
-Room Booking Application
+# Room Booking Application
 This is a simple room booking application developed using Python's Tkinter library and SQLite for database management. The application allows users to book rooms, view available rooms, and veiw all the booked rooms
 
 Features
@@ -8,6 +8,7 @@ Features
 -View Booked Rooms: Displays a list of currently booked rooms.
 -Database Integration: Utilizes SQLite for storing booking information.
 -Graphical User Interface (GUI): Developed using Tkinter for a user-friendly experience.
+-    
 
 Usage
 -Upon launching the application, users can enter their details in the Customer Details section and select a room to book.
